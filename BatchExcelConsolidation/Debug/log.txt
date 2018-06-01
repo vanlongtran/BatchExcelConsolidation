@@ -1,0 +1,110 @@
+
+--Application started : 11:16:06 AM Thursday, May 17, 2018
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Destination - Empty Copy.xlsx
+
+ :Quarter specified not found. Moving on
+
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Destination.xlsx
+
+ :Quarter specified not found. Moving on
+
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Solodo 2016 Q3.xlsx
+
+ :Starting Quarter : Q3
+
+Starting import: Q3 Report
+Starting import of Quarter Data from Report QQ3
+Importing Quarter financial numbers from Q3 Report
+Write Q3's General Data to Destination Excel
+Writing Q3's Detail and Financial to Excel.
+Starting import of Quarter Data from Report QQ2
+Importing Quarter financial numbers from Q2 Report
+Writing Q2's Detail and Financial to Excel.
+Starting import of Quarter Data from Report QQ1
+Error encountered: Q1: System.Runtime.InteropServices.COMException (0x8002000B): Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+   at Microsoft.Office.Interop.Excel.Sheets.get__Default(Object Index)
+   at BatchExcelConsolidation.Program.prepQuarterSummary(String pathName, String filename, String quarter, StreamWriter w) in c:\users\admin\documents\visual studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\Program.cs:line 72
+Returning empty array for write.
+Importing Quarter financial numbers from Q1 Report
+Error encountered: Q1: System.Runtime.InteropServices.COMException (0x8002000B): Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+   at Microsoft.Office.Interop.Excel.Sheets.get__Default(Object Index)
+   at BatchExcelConsolidation.Program.prepQuarterFinancial(String pathName, String filename, String quarter, StreamWriter w) in c:\users\admin\documents\visual studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\Program.cs:line 117
+Returning empty array for write.
+Writing Q1's Detail and Financial to Excel.
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Tesla 2016 Q4.xlsx
+
+ :Starting Quarter : Q4
+
+Starting import: Q4 Report
+Starting import of Quarter Data from Report QQ4
+Importing Quarter financial numbers from Q4 Report
+Write Q4's General Data to Destination Excel
+Writing Q4's Detail and Financial to Excel.
+Starting import of Quarter Data from Report QQ3
+Importing Quarter financial numbers from Q3 Report
+Writing Q3's Detail and Financial to Excel.
+Starting import of Quarter Data from Report QQ2
+Importing Quarter financial numbers from Q2 Report
+Writing Q2's Detail and Financial to Excel.
+Starting import of Quarter Data from Report QQ1
+Importing Quarter financial numbers from Q1 Report
+Writing Q1's Detail and Financial to Excel.
+ :********************************************
+
+--Application started : 11:25:25 AM Thursday, May 17, 2018
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Destination - Empty Copy.xlsx
+
+ :Quarter specified not found. Moving on
+
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Destination.xlsx
+
+ :Quarter specified not found. Moving on
+
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Solodo 2016 Q3.xlsx
+
+ :Starting Quarter : Q3
+
+Starting import: Q3 Report
+Starting import of Quarter Data from report Q3
+Importing Quarter financial numbers from Report Q3
+Write Q3's General Data to Destination Excel
+Writing Q3's Detail and Financial to Excel.
+Starting import of Quarter Data from report Q2
+Importing Quarter financial numbers from Report Q2
+Writing Q2's Detail and Financial to Excel.
+Starting import of Quarter Data from report Q1
+Error encountered: Q1: System.Runtime.InteropServices.COMException (0x8002000B): Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+   at Microsoft.Office.Interop.Excel.Sheets.get__Default(Object Index)
+   at BatchExcelConsolidation.Program.prepQuarterSummary(String pathName, String filename, String quarter, StreamWriter w) in c:\users\admin\documents\visual studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\Program.cs:line 72
+Returning empty array for write.
+Importing Quarter financial numbers from Report Q1
+Error encountered: Q1: System.Runtime.InteropServices.COMException (0x8002000B): Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+   at Microsoft.Office.Interop.Excel.Sheets.get__Default(Object Index)
+   at BatchExcelConsolidation.Program.prepQuarterFinancial(String pathName, String filename, String quarter, StreamWriter w) in c:\users\admin\documents\visual studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\Program.cs:line 117
+Returning empty array for write.
+Writing Q1's Detail and Financial to Excel.
+Accessing : C:\Users\admin\Documents\Visual Studio 2015\Projects\BatchExcelConsolidation\BatchExcelConsolidation\bin\Debug\Tesla 2016 Q4.xlsx
+
+ :Starting Quarter : Q4
+
+Starting import: Q4 Report
+Starting import of Quarter Data from report Q4
+Importing Quarter financial numbers from Report Q4
+Write Q4's General Data to Destination Excel
+Writing Q4's Detail and Financial to Excel.
+Starting import of Quarter Data from report Q3
+Importing Quarter financial numbers from Report Q3
+Writing Q3's Detail and Financial to Excel.
+Starting import of Quarter Data from report Q2
+Importing Quarter financial numbers from Report Q2
+Writing Q2's Detail and Financial to Excel.
+Starting import of Quarter Data from report Q1
+Importing Quarter financial numbers from Report Q1
+Writing Q1's Detail and Financial to Excel.
+Accessing : ~$Solodo 2016 Q3.xlsx
+
+Temporary file found. No action performed.
+Accessing : ~$Tesla 2016 Q4.xlsx
+
+Temporary file found. No action performed.
+ :********************************************
